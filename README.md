@@ -1,4 +1,4 @@
-# paris-playback-tool
+# paris-playback-tool (more functional ai slop)
 PARIS Player & Exporter
 
 A simple Python GUI tool to play back and export audio from .paris files (Morse code timing files).
